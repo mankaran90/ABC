@@ -89,3 +89,4 @@ target/
 
 #Virtual Environment
 venv/
+/data
